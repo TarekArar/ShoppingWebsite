@@ -37,3 +37,8 @@
     visibility: visible;
     opacity: 0.3;
 }
+
+.list-unstyled > li {
+    display: inline;
+    background-color: #26cbd6 ;
+}
